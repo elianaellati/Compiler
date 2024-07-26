@@ -1,4 +1,4 @@
-**LL(1) Parser
+LL(1) Parser
 This repository contains the implementation of an LL(1) parser, a type of top-down parser for a subset of context-free grammars. LL(1) parsers are efficient and straightforward, using a single lookahead token to make parsing decisions.
 
 Overview
