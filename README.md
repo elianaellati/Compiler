@@ -1,7 +1,7 @@
-#LL(1) Parser
+# LL(1) Parser
 This repository contains the implementation of an LL(1) parser, a type of top-down parser for a subset of context-free grammars. LL(1) parsers are efficient and straightforward, using a single lookahead token to make parsing decisions.
 
-#Overview
+# Overview
 The LL(1) parser is constructed based on the LL(1) algorithm, which relies on the following key components:
 
 1- Grammar Definition: The context-free grammar (CFG) to be parsed, defined in Backus-Naur Form (BNF).
