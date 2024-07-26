@@ -10,4 +10,4 @@ The LL(1) parser is constructed based on the LL(1) algorithm, which relies on th
 
 3- Parse Table: A table that maps non-terminal symbols and lookahead tokens to the appropriate production rules.
 
-4- Parsing Process: The actual parsing process, where input strings are processed to construct a parse tree or determine if the string belongs to the language defined by the grammar.
+4- Parsing Process: The actual parsing process, where input strings are divided into tokens, and these tokens are processed to determine if the string belongs to the language defined by the grammar.
